@@ -34,7 +34,7 @@
 ## Get in touch
 
 - Personal web: [主站](https://www.wu1024.top/)
-- Tools: [Tools](https://tools.wu1024.top/)
+- Tools: [Tools](https://www.urhome.top/)
 - Zhihu: [知乎](https://www.zhihu.com/people/superwu-43)
 - csdn: [csdn](https://blog.csdn.net/wz_coming)
 
