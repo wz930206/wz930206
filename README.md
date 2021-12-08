@@ -28,7 +28,7 @@
 
 <a title="Hits" target="_blank" href="https://github.com/wz930206/wz930206"><img src="https://hits.b3log.org/wz930206/wz930206.svg"></a>
 
-[![About me](https://github-readme-stats.vercel.app/api?username=wz930206&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/wz930206)  
+[![About me](https://github-readme-stats.vercel.app/api?username=wz930206&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/wz930206)  
 
 
 ## Get in touch
