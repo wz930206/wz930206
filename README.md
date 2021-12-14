@@ -56,3 +56,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<small><img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6"></small>
+<br />
+<br />
