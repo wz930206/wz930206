@@ -1,5 +1,5 @@
 <div align="center">
-  <p>嗨！ 我是 wuzhao👋, 一个在中国上海的前端开发工程师。</p>
+  <p>嗨！ 我是 mark👋, 一个在中国上海的前端开发工程师。</p>
   <p>人生的三大遗憾：不会选择、不断地选择、不坚持选择</p>
   <p>
     <img src="https://img.shields.io/github/followers/wz930206" />
